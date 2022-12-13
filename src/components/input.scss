@@ -1,0 +1,32 @@
+p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #484848;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 332px;
+    height: 33px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 4px 4px 0px 0px;
+    padding-left: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.dropdown {
+    width: 332px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0px 0px 4px 4px;
+}
